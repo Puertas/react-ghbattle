@@ -1,7 +1,7 @@
 # react-ghbattle
 ### Learning React Example - Github Profiles Battle
 
-Example to learn React and react environment (webpack, react-router...).
+Example to learn React and react environment (webpack, react-router...). Following the Tutorials from: https://reacttraining.com/online which I really recommend.
 
 The example consist on a search box where you can select to Github profiles and confront them!. After the battle we will show
 a result cards with data the score and the winner.
